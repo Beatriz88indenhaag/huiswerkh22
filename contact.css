@@ -1,0 +1,14 @@
+body{
+  background-color:lightslategray 
+ }
+
+footer {
+    position:fixed;
+    background-color: greenyellow;
+    color: white;
+    left:0px;
+    bottom:0px;
+    width: 100%;
+    height: 200px;
+    padding: 15px;
+  }
